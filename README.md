@@ -2,3 +2,4 @@
 
 LAB1 screenshot
 ![screenshot_1.png](screenshot_1.png)
+![screenshot_2.png](screenshot_2.png)
