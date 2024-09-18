@@ -23,6 +23,11 @@ public class mainApp2c {
         Phone p = new Phone();
         MobileComputer m = new MobileComputer();
         c.charge(p);
-//        c.charge(m);    // this does not work without fixing MobileComputer */
+        c.charge(m);    // this does not work without fixing MobileComputer */
+        // Error Explaination
+        // The error is because MobileComputer does not implement Chargeable
+        // To fix this, we need to add the Chargeable interface to MobileComputer
+        // After adding the Chargeable interface to MobileComputer, the code will work
+
     }
 }

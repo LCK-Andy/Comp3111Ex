@@ -3,7 +3,8 @@ package Lab2c;
 /*	Comp3111LEx\Lab2c\MobileComputer.java
 	Inherits from Computer, class library for Lab2 Exercise 3	*/
 
-public class MobileComputer extends Computer {
+// implement Chargeable interface
+public class MobileComputer extends Computer implements Chargeable{
     private int battery;
     public MobileComputer() {
         secret = "MobileComputer secret";
