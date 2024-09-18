@@ -1,4 +1,4 @@
-package lab2c;
+package Lab2c;
 
 /*  Comp3111LEx\Lab2c\Phone.java
 */

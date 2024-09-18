@@ -1,4 +1,7 @@
-package lab2b;
+package Lab2b;
+
+// if we want to use Score from Lab2a in Lab2b
+//import Lab2a.Score;
 
 /* 	Comp3111LEx\Lab2b\mainApp2b.java
 	main Application for Lab2 Exercise 2	*/

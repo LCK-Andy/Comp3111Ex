@@ -1,4 +1,4 @@
-package lab2a;
+package Lab2a;
 
 public class Score {
     /* A class contains constructor[C], attributes[A] and methods[M]. */

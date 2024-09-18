@@ -1,4 +1,4 @@
-package lab2c;
+package Lab2c;
 /* Import class library cross package Lab2b */
 import Lab2b.Book;
 
@@ -23,6 +23,6 @@ public class mainApp2c {
         Phone p = new Phone();
         MobileComputer m = new MobileComputer();
         c.charge(p);
-        c.charge(m);    // this does not work without fixing MobileComputer */
+//        c.charge(m);    // this does not work without fixing MobileComputer */
     }
 }
