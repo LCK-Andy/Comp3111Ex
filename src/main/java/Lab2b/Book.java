@@ -1,4 +1,4 @@
-package lab2b;
+package Lab2b;
 
 /*	Comp3111LEx\Lab2b\Book.java		*/
 public class Book {
@@ -13,7 +13,7 @@ public class Book {
     public Book(String argument[]) {
         /* construct the object with an array of chapter names */
         /* PLEASE ADD YOUR CODE HERE */
-
+        this.chapters = argument.clone();
     }
     public String getChapter(int i) {
         /* return the chapter by the given index */
